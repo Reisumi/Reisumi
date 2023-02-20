@@ -1,7 +1,7 @@
 Hi 👋 My name is Reisumi
 ========================
 
-Cybersecurity Expert And Team Leader At Microsoft Dubai
+Hobbyist Programmer
 -----------------------------------------------------------
 
 I've learned 12 languages like JavaScript,Python and etc
@@ -10,7 +10,7 @@ I've learned 12 languages like JavaScript,Python and etc
 * 🖥️  See my portfolio at [Profile](http://reisumi.xyz)
 * 🧠  I'm learning Networking and Manufacturing System
 * 🤝  I'm open to collaborating on Special project
-* ⚡  i'm working on a Central System for School, University and kindergarden
+* ⚡  i'm working on a Advance Artificial Technology
 
 <a href="https://www.github.com/Reisumi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Reisumi?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
